@@ -1,0 +1,2 @@
+# KafkaNetCoreTest
+apache kafka test
